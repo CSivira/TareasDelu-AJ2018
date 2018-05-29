@@ -1,0 +1,31 @@
+# Constellations.txt
+Aquarius
+Taurus
+Gemini
+Aries
+Virgo
+Pisces
+Leo
+Scorpius
+Cancer
+Libra
+Sagittaurus
+Capricornus
+Apus
+Aquila
+Cetus
+Corvus
+Cygnus
+Dorado
+Draco
+Grus
+Indus
+Lupus
+Lynx
+Monoceros
+Pavo
+Pegasus
+Phoenix
+Pictor
+Piscis Austrinus
+Tucana
