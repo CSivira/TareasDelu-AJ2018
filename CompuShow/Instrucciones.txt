@@ -1,4 +1,0 @@
-La flecha de seleccion se mueve como las flechas de arriba y abajo
-al pulsar intro se cambiara a la pantalla siguiente
-los botones no cambian las escenas, solo intro. Por lo tanto, si quieres simular que pulsas un boton, entonces solo coloca el la flecha apuntandole y pulsa intro.
-La secuencia de las escenas ya esta predefinida, recomiendo probar el menu antes de grabar

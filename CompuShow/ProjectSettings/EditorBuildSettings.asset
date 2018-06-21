@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/inicio.unity
+    guid: 4fa88050c0b97f344ba485a4a47ddc33
+  - enabled: 1
+    path: Assets/Escenas/menu.unity
+    guid: 3ffda3c3bf09c9c4e9361cb691e8d21f
+  - enabled: 1
+    path: Assets/Escenas/dificultad.unity
+    guid: b47198c2d85f3754ea3d759a107f9594
+  - enabled: 1
+    path: Assets/Escenas/capitulos.unity
+    guid: 0db0c37307c6272409bde789ef960210
+  - enabled: 1
+    path: Assets/Escenas/1reu.unity
+    guid: 0ac54358989a25e47b56d88e21e5dc17
+  - enabled: 1
+    path: Assets/Escenas/logro1.unity
+    guid: 5f3eda1fe6db34a478e5e81ea12f97cf
+  - enabled: 1
+    path: Assets/Escenas/creditos.unity
+    guid: 451c8ff5fd01440458249e0b7f4d2cbc
+  - enabled: 1
+    path: Assets/Escenas/expvsrea.unity
+    guid: a9116cbdfc02e8f4691140850f2fd1c9
+  - enabled: 1
+    path: Assets/Escenas/extra.unity
+    guid: 83d8d79be284f71458a69ead741bf78e
+  - enabled: 1
+    path: Assets/Escenas/end.unity
+    guid: 9613a940a30eb7540a43ee9f5beaa6d6
+  - enabled: 1
+    path: Assets/Escenas/fin.unity
+    guid: 101d684aa03ccd64999703c97a50c5a4
+  - enabled: 1
+    path: Assets/Escenas/extra2.unity
+    guid: 41912568d54174844935f61a4c7490f8
+  - enabled: 1
+    path: Assets/Escenas/extraclone.unity
+    guid: 6f341faf603836943bf8850835bb2d38
+  - enabled: 1
+    path: Assets/Escenas/finju.unity
+    guid: 798163ca85795dd429d885feb5ce9e7b
+  - enabled: 1
+    path: Assets/Escenas/fintri.unity
+    guid: 6bc559f79c98bb644b60721d30cdb25c
+  - enabled: 1
+    path: Assets/Escenas/logro2.unity
+    guid: a38f484557f52b54bbb0f29c2f63e4cd
+  - enabled: 1
+    path: Assets/Escenas/menu2.unity
+    guid: 35dd973e944cbbc41aa427b289b85c3b
+  - enabled: 1
+    path: Assets/Escenas/parod.unity
+    guid: 1b9620e800c16b34087f8403e992a064
+  - enabled: 1
+    path: Assets/Escenas/tipos.unity
+    guid: 1d640f15fdfec194ba913c1096a272c1
